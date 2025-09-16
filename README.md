@@ -1,7 +1,6 @@
-# Employee-Churn-Analysis-CodeAlpha-Third-Task-Data-Visualization
+# Customer-Churn-Analysis-CodeAlpha-Third-Task-Data-Visualization
 This project performs an exploratory analysis of customer churn using the churn-bigml-20.csv dataset. Using Python (pandas) and visualization libraries (matplotlib, seaborn), the notebook inspects how churn relates to usage metrics and service features — e.g. area code, voice mail plan, international plan, customer service call frequency, and day-time usage (Total day minutes / Total day charge). The output is a set of charts that help stakeholders understand which factors are associated with higher churn and where to focus retention actions.
 
-# Employee Churn Analysis — CodeAlpha Internship Task
 
 ## Project overview
 This notebook contains an exploratory data analysis (EDA) of a telecom churn dataset (`churn-bigml-20.csv`) completed as part of my Data Analysis internship at **CodeAlpha**. The goal is to investigate which customer and usage features are associated with churn and to produce clear visualizations to guide retention strategy.
